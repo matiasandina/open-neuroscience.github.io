@@ -1,0 +1,269 @@
+id,Title,Content,Author,Date,Languages
+435,"Publicize and Psychophysics!","Hello!!
+
+This is just a message to test the publicize feature and let you know that the website has a new <a title=""Psychophysics toolboxes"" href=""http://openeuroscience.wordpress.com/software/psychophysics-toolboxes/"">Psychophysics toolboxes</a> section! Also, a lot has been updated here and there, so there should be some mistakes missing now...
+
+Happy open sourcing!",2,20130828,English
+466,"Open centrifuges, a hack everyday and optogenetics wiki!","Hello!
+Some more interesting projects are collated here! This time an <a href=""http://openeuroscience.wordpress.com/hardware-projects/openfuge/"" title=""OpenFuge"">open centrifuge</a> project where all materials cost ~200 dollars, an <a href=""http://openeuroscience.wordpress.com/hardware-projects/optogenetics/"" title=""Optogenetics"">optogenetics wiki page</a> for information and know-how exchange and last but not least, the <a href=""http://openeuroscience.wordpress.com/learning-sources/"" title=""Learning sources"">hack-a-day</a> project, where excelent projects are shared. Although not always related to science, they are a great source for ideas and information (I found the OpenFuge project via their page).
+
+<img src=""http://www.instructables.com/files/deriv/FSD/495J/HLSH87B3/FSD495JHLSH87B3.LARGE.jpg"">",2,20130927,English
+479,"New open wetware section","Hello!
+A new section has been added to the website! In the <a href=""http://openeuroscience.wordpress.com/open-wetware/"" title=""Open Wetware"">wetware section</a> you'll find two projects. One of them a company selling molecular biology tools and reagents following the open source philosophy, and the other a wiki page making an effort to share information, know-how and to provide a place where people can share and organize their data/lab annotations.",2,20131001,English
+539,"Microscopy special!","Hi! After a brief quiet period, some new open source projects have been added to the website! This time, they are all concerning microscopy!
+
+On the hardware list:
+
+<a href=""http://openeuroscience.wordpress.com/hardware-projects/microscopy-hardware/scanning-electron-microscope/"" title=""Scanning electron microscope"">Scanning electron microscope </a>(yep, you read it correctly!).
+
+<a href=""http://openeuroscience.wordpress.com/hardware-projects/microscopy-hardware/10-microscope-using-a-smartphone/"" title=""10$ microscope using a smartphone"">10$ mount to transform a smartphone into a stereomicroscope.</a>
+
+<a href=""http://openeuroscience.wordpress.com/hardware-projects/microscopy-hardware/stereo-microscope-the-steve-richardson-way/"" title=""Stereo microscope – The Steve Richardson way."">3 projects to enhance the capabilities of your commercially available stereomicroscope.
+</a>
+On Software:
+
+<a href=""http://openeuroscience.wordpress.com/software/microscopy/micro-manager/"" title=""Micro-Manager"">Micro Manager</a>, a ImageJ add on that enables automatic control of several microscopes, cameras, filters and more!
+
+",2,20131104,English
+607,"Signal generators","Hello,
+
+   Another brief update to the website, <a href=""http://openeuroscience.wordpress.com/hardware-projects/signal-generators/"">the signal generator section</a> introduces open source instructions to build waveform generators (very usefull tools for behavioural paradigms, software development and circuit testing).
+
+   Enjoy!
+",2,20131208,English
+620,"Christmas post with 5 projects to keep you busy!","Hello!
+
+As we are all preparing for the end of another year, openeuroscience goes full gas on the search for open source neuroscience related projects!
+
+Here is what is new on the website:
+
+<a href=""http://openeuroscience.wordpress.com/hardware-projects/tdcs-machine/"">DIY tDCS machine.</a>
+
+<a title=""Near-infrared spectroscopy"" href=""http://openeuroscience.wordpress.com/hardware-projects/open-near-infrared-spectroscopy/"">Near-infrared spectroscopy</a>
+
+<a title=""Open computer vision"" href=""http://openeuroscience.wordpress.com/software/open-computer-vision/"">Open computer vision library</a>
+
+<a title=""Supercomputers"" href=""http://openeuroscience.wordpress.com/hardware-projects/supercomputers/"">BeagleBone computer cluster</a>
+
+<a title=""EEG MEG Toolbox – Fieldtrip"" href=""http://openeuroscience.wordpress.com/software/eeg-meg-toolbox-fieldtrip/"">EEG MEG toolbox - Fieldtrip</a>",2,20131217,English
+660,"January brings novelty!","Hi!
+
+Some updates for the already existing pages of the website:
+
+Faculty of a 1000, thickens the list of <a title=""Open access journals"" href=""http://openeuroscience.wordpress.com/open-access-journals/"">open access journals</a>. One of the strong points is that they change the way peer reviewed is done. Here, the review process is a non-anonymous way and post publication! All changes made to the paper are tracked, so one can check the paper's evolution. Also it is mandatory that the data used in the paper is made publicly available (also on the journal website).
+
+<a title=""Open Data/Data collaboration projects"" href=""http://openeuroscience.wordpress.com/data-collaboration-projects/"">Figshare and dryad</a> are two data repositories that give your data digital object identifiers, making them traceable and citable.
+
+<a title=""Open lab notebooks"" href=""http://openeuroscience.wordpress.com/open-lab-notebooks/"">Open lab notebook</a> section: There are still very few examples, so suggestions are welcome!
+
+Also, Openeuroscience is now on Twitter! so if you want to follow our updates and get quick messages on cool stuff we find here and there <a href=""https://twitter.com/openeuroscience"">follow us</a>!
+
+Credit where is due: Some of this new information came from J. Christopher Bare excellent post <a href=""http://digitheadslabnotebook.blogspot.de/"">""Guide to open science""</a>.",2,20140122,English
+681,Crowdfunding,"This update brings whatever I could find on crowdfunding portals that allow scientists to raise money for research in an innovative, decentralized way! Learn to make your research appealing to the general public and get them directly involved in it!
+
+On top of facilitating research funding, this idea helps to take science out of its ivory tower and communicate to the public in a direct way. On the down side, ""properly sold"" projects can be fully funded even though they are not scientifically sound (there are solutions to this problem already...)
+
+More information can be found <a title=""Crowd funding"" href=""http://openeuroscience.wordpress.com/crowd-funding/"">HERE.</a>
+
+Good luck with funding!",2,20140203,English
+698,"3D printers!","3D printers are already starting to revolutionize the way manufacturing is made. It seems natural that they made their way into the laboratory environment. Check more about it on our new <a title=""3D printers"" href=""http://openeuroscience.wordpress.com/hardware-projects/3d-printing/"">3d printers page</a>.
+
+[caption id=""attachment_699"" align=""aligncenter"" width=""300""]<a href=""http://openeuroscience.com/wp-content/uploads/2014/02/prismx-3d-printer-1.jpg""><img class=""size-medium wp-image-699 "" alt=""prismx-3d-printer-1"" src=""http://openeuroscience.com/wp-content/uploads/2014/02/prismx-3d-printer-1.jpg?w=300"" width=""300"" height=""225"" /></a> From http://migre.me/hXib4[/caption]
+
+&nbsp;",2,20140219,English
+722,"motion tracking software","<span class=""userContent"">A small list of motion tracking software and computer vision libraries!
+<a href=""http://migre.me/iB0YI"" target=""_blank"" rel=""nofollow nofollow"">http://migre.me/iB0YI</a></span>",2,20140401,English
+794,"Programable water bath and tutorials for electronics","Tired of changing bottles from one water bath to another? Check out this <a title=""Programable water bath"" href=""http://openeuroscience.wordpress.com/hardware-projects/wetware/programable-water-bath/"">programmable water bath</a> created by Luis Zaman.
+
+Want a place to learn electronics, microncontrollers and FPGA, check the PyroEdu guys on our <a title=""Learning sources"" href=""http://openeuroscience.wordpress.com/learning-sources/"">Learning sources</a> page.
+
+Last but not least, check out the<a title=""Skinner box using a rasperry pi and python"" href=""http://openeuroscience.wordpress.com/hardware-projects/skinner-box-using-a-rasperry-pi-and-python/""> skinner box using raspberry pi and python</a> connected to the internet, created by Katherine Scott",2,20140701,English
+837,"3rd IBRO school on insect neuroscience and Drosophila neurogenetics","<p>Tomorrow the 3<sup>rd</sup> IBRO school on insect neuroscience and <em>Drosophila</em> neurogenetics starts! Hosted for the first time in Dar es Salaam, Tanzania, the course is organised by the people of TrendinAfrica for African students from all over the continent. In the first week Open neuroscience is participating too! We are trying to spread open source, open access ideas and to encourage students/ prospective scientists to use affordable/reliable/customizable and open hardware/software for research! </p><p> </p><p><a href=""http://openeuroscience.com/wp-content/uploads/2014/08/dsc_1380.jpg""><img class=""alignnone size-medium wp-image-838"" src=""http://openeuroscience.com/wp-content/uploads/2014/08/dsc_1380.jpg?w=199"" alt=""DSC_1380"" width=""199"" height=""300"" /></a> <a href=""http://openeuroscience.com/wp-content/uploads/2014/08/dsc_1385.jpg""><img class=""alignnone size-medium wp-image-839"" src=""http://openeuroscience.com/wp-content/uploads/2014/08/dsc_1385.jpg?w=300"" alt=""DSC_1385"" width=""300"" height=""199"" /></a></p>",2,20140810,English
+880,"Some new projects","Hello,
+
+A couple of project updates!
+
+<a title=""Red Pitaya"" href=""http://openeuroscience.wordpress.com/hardware-projects/microcontrollers/red-pitaya/"">Red pitaya</a> - a beefed up arduino.
+
+<a title=""OpenHardwareExG"" href=""http://openeuroscience.wordpress.com/hardware-projects/human-brain-interactors/eeg-systems/openhardwareexg/"">OpenHardwareExG</a> - an open source suite for biosignals
+
+<a title=""Addgene"" href=""http://openeuroscience.wordpress.com/data-collaboration-projects/addgene/"">Addgene</a> - a plasmid databank
+
+<a title=""Open access journals"" href=""http://openeuroscience.wordpress.com/open-access-journals/"">Paperity</a> - an open access journal aggregator
+
+<a title=""Open access journals"" href=""http://openeuroscience.wordpress.com/open-access-journals/"">Publons</a> - a system to keep track of reviews made to peer-reviewed journals",2,20141010,English
+910,"Even more projects","Some new projects that range from centrifuge to fMRI analysis software
+
+<a title=""centrifuges"" href=""http://openeuroscience.wordpress.com/hardware-projects/wetware/centrifuges/"">Centrifuges</a>:
+<p style=""padding-left:30px;""><a title=""DremelFuge"" href=""http://openeuroscience.wordpress.com/hardware-projects/wetware/centrifuges/dremelfuge/"">DremelFuge</a></p>
+<p style=""padding-left:30px;""><a title=""GogoFuge"" href=""http://openeuroscience.wordpress.com/hardware-projects/wetware/centrifuges/gogofuge/"">gogoFuge</a></p>
+<a title=""Open source syringe pump"" href=""http://openeuroscience.wordpress.com/hardware-projects/wetware/open-source-syringe-pump/"">Open source syringe pump</a>
+
+<a title=""OpenStage"" href=""http://openeuroscience.wordpress.com/hardware-projects/microscopy-hardware/openstage/"">Motorised microscope stage</a>
+
+<a title=""Fiji"" href=""http://openeuroscience.wordpress.com/software/microscopy/fiji/"">Fiji</a> - microscopy software
+
+<a title=""Nipy"" href=""http://openeuroscience.wordpress.com/software/data-analysis-and-visualization/nipy/"">Nipy</a> - collection of neuroimaging software
+
+<a title=""Genome RNAi"" href=""http://openeuroscience.wordpress.com/data-collaboration-projects/genome-rnai/"">Genome RNAi</a>  database",2,20141017,English
+930,"December updates","Some new projects ranging from molecular biology to distributed computation
+
+<a title=""IPipet"" href=""http://openeuroscience.wordpress.com/software/ipipet/"">IPipete</a>: if you are tired of pipetting samples in the wrong wells and can't afford a pipetting computer, this project is for you!
+
+<a title=""NiBabel"" href=""http://openeuroscience.wordpress.com/software/data-analysis-and-visualization/nipy/nibabel/"">NiBabel</a>: an universal reader for fMRI data formats
+
+<a title=""Open syringe pump 1"" href=""http://openeuroscience.wordpress.com/hardware-projects/wetware/916-2/open-source-syringe-pump/"">Open syringe pump1</a> and <a title=""Open syringe pump 1"" href=""http://openeuroscience.wordpress.com/hardware-projects/wetware/916-2/open-source-syringe-pump/"">open syringe pump2</a>: need to have precise infusion rates? these projects will help.
+
+<a title=""Boinc"" href=""http://openeuroscience.wordpress.com/hardware-projects/supercomputers/boinc/"">Boinc:</a> volunteer computing platform, where one can harness the idle time of computer for number crushing",2,20141210,English
+952,"CERN data goes open access","This is not on the neuroscience field, but it is nonetheless a major step towards open science!
+
+On November 2014 the CERN has launched its <a href=""http://opendata.cern.ch/"">open data portal</a>, where researchers, students and people interested in physics will be able to play around and visualize data generated by the large hadron collider (LHC). For both analysis and visualization the consortium has released open source software, distributed under creative common licenses. The data currently available was collected in 2010 when the collider was turned on for the first time. The European organization is committed to releasing the data collected with a 3 year delay, after it has been thoroughly analysed by its scientists.
+
+The full press release can be found <a href=""http://home.web.cern.ch/about/updates/2014/11/cern-makes-public-first-data-lhc-experiments"">here.</a>",2,20150107,English
+1006,"Open prosthesis and robotics","New prosthetics and robotics section in openeuroscience! Check it out <a title=""Open prosthetics and robotics"" href=""http://openeuroscience.com/hardware-projects/open-prosthetics-and-robotics/"">here</a>. If you know of any other projects not listed here, let us know!
+
+[caption id=""attachment_996"" align=""aligncenter"" width=""300""]<a href=""http://openeuroscience.com/wp-content/uploads/2015/01/fingertip_on_hand.jpg""><img class=""size-medium wp-image-996"" src=""http://openeuroscience.com/wp-content/uploads/2015/01/fingertip_on_hand.jpg?w=300"" alt=""From: http://toychest.ai.uni-bremen.de/wiki/_media/projects:fingertip_on_hand.jpg?cache=&amp;w=900&amp;h=675&amp;tok=207d12"" width=""300"" height=""225"" /></a> From: http://toychest.ai.uni-bremen.de/wiki/_media/projects:fingertip_on_hand.jpg?cache=&amp;w=900&amp;h=675&amp;tok=207d12[/caption]
+
+[caption id=""attachment_986"" align=""aligncenter"" width=""300""]<a href=""http://openeuroscience.com/wp-content/uploads/2015/01/model_t.jpg""><img class=""size-medium wp-image-986"" src=""http://openeuroscience.com/wp-content/uploads/2015/01/model_t.jpg?w=300"" alt=""http://www.eng.yale.edu/grablab/openhand/images/model_t.jpg"" width=""300"" height=""225"" /></a> http://www.eng.yale.edu/grablab/openhand/images/model_t.jpg[/caption]
+
+[caption id=""attachment_980"" align=""aligncenter"" width=""300""]<a href=""http://openeuroscience.com/wp-content/uploads/2015/01/handshake.jpg""><img class=""size-medium wp-image-980"" src=""http://openeuroscience.com/wp-content/uploads/2015/01/handshake.jpg?w=300"" alt=""From http://www.openhandproject.org/images/handshake.jpg"" width=""300"" height=""223"" /></a> From http://www.openhandproject.org/images/handshake.jpg[/caption]",2,20150202,English
+1015,OpenWorm,"<a href=""http://travs.github.io/"" target=""_blank"">Travis </a><a href=""http://travs.github.io/"" target=""_blank"">Jacobs</a>, a collaborator at the openWorm project was kind enough to provide us with a description of this very interesting project! Be sure to check it out <a title=""Open Worm"" href=""http://openeuroscience.com/software/open-worm/"">here.</a>",2,20150312,English
+1077,"After a little spring sleep...","... We are back with 2 new sections!
+
+<a href=""http://openeuroscience.com/hardware-projects/thermocyclers-pcr-machines/"">PCR machines</a> that range from 5 Dollar machines to fully assembled ones for under 1000 dollars!
+
+<a href=""http://openeuroscience.com/open-source-simulations-and-models/"">Simulations and models</a>, that emulate single neurons, neuronal networks, bee brains and complete worms!
+
+[caption id=""attachment_1058"" align=""alignnone"" width=""300""]<a href=""http://openeuroscience.com/wp-content/uploads/2015/06/machine-34ba9a259de2ce130a96f9f6380cc9da.png""><img class=""size-medium wp-image-1058"" src=""http://openeuroscience.com/wp-content/uploads/2015/06/machine-34ba9a259de2ce130a96f9f6380cc9da.png?w=300"" alt=""from http://openpcr.org/"" width=""300"" height=""227"" /></a> from http://openpcr.org/[/caption]
+
+[caption id=""attachment_1064"" align=""alignnone"" width=""300""]<a href=""http://openeuroscience.com/wp-content/uploads/2015/06/9376471408592234948.png""><img class=""size-medium wp-image-1064"" src=""http://openeuroscience.com/wp-content/uploads/2015/06/9376471408592234948.png?w=300"" alt=""from https://hackaday.io/project/2548-open-source-thermal-cycler"" width=""300"" height=""208"" /></a> from https://hackaday.io/project/2548-open-source-thermal-cycler[/caption]
+
+[caption id=""attachment_1071"" align=""alignnone"" width=""300""]<a href=""http://openeuroscience.com/wp-content/uploads/2015/06/cropped-green_brain_sm-300x201.png""><img class=""size-full wp-image-1071"" src=""http://openeuroscience.com/wp-content/uploads/2015/06/cropped-green_brain_sm-300x201.png"" alt=""from http://greenbrain.group.shef.ac.uk/"" width=""300"" height=""201"" /></a> from http://greenbrain.group.shef.ac.uk/[/caption]",2,20150609,English
+1095,"Tensor Flow, OME, e-health, Bitalino","Some updates to the website!
+
+Google has created an open source tool box, called <a href=""http://openeuroscience.com/software/data-analysis-and-visualization/tensor-flow/"">Tensor Flow</a> containing their deep learning algorithms
+
+&nbsp;
+
+[caption id=""attachment_1160"" align=""aligncenter"" width=""300""]<img class=""size-medium wp-image-1160"" src=""http://openeuroscience.com/wp-content/uploads/2015/11/google-tensor-flow-logo-black-s.jpg?w=300"" alt=""from http://www.wired.com/2015/11/google-open-sourcing-tensorflow-shows-ais-future-is-data-not-code/"" width=""300"" height=""225"" /> from http://www.wired.com/2015/11/google-open-sourcing-tensorflow-shows-ais-future-is-data-not-code/[/caption]
+
+&nbsp;
+
+<a href=""http://openeuroscience.com/software/microscopy/ome-open-microscopy-environment/"">OME</a> is a project concerned with the creation of standard file formats, visualization, and file keeping tools for biological images.
+
+e-health is an open source platform for real time monitoring of biosignals from patients / test subjects. Check it at <a href=""http://openeuroscience.com/other-interesting-projects/"">interesting projects </a>(at the bottom of the page).
+
+Bitalino is also listed on the <a href=""http://openeuroscience.com/other-interesting-projects/"">interesting projects</a> page, and is similar to e-health, but more focused on prototyping and tinkering.",2,20151117,English
+1128,"LED Panels","The projects in our new section describe how to build <a href=""http://openeuroscience.com/hardware-projects/led-panels/"">LED Panels</a> for visual stimulation.
+
+These panels have a higher refresh rate and are much more portable than computer monitors. The down side is that there is a certain loss of definition.
+
+&nbsp;
+
+&nbsp;",2,20150904,English
+1132,"BMP biosignal","<a href=""http://openeuroscience.com/human-electrophysiology/bio-signal/"">BPM biosignal</a> is an independent project aiming at teaching how to build amplifiers dedicated to biological signals and how to interpret the signals coming from amplifiers, so that people are more critic when looking at published data.
+
+[caption id=""attachment_1124"" align=""aligncenter"" width=""300""]<a href=""http://openeuroscience.com/wp-content/uploads/2015/09/bio_signal.jpg""><img class=""size-medium wp-image-1124"" src=""http://openeuroscience.com/wp-content/uploads/2015/09/bio_signal.jpg?w=300"" alt=""from: http://biosignals.berndporr.me.uk/lib/exe/detail.php?id=start&amp;media=image39_crop.jpg"" width=""300"" height=""181"" /></a> from: http://biosignals.berndporr.me.uk/lib/exe/detail.php?id=start&amp;media=image39_crop.jpg[/caption]",2,20150908,English
+1176,OpenQCM,"Happy new year everyone!
+
+just a small note for you to check out the <a href=""http://openeuroscience.com/hardware-projects/openqcm/"">OpenQCM</a> project, a complete open source, arduino run, microbalance!
+
+&nbsp;",2,20160107,English
+1181,"Center for Reproducible Neuroscience","[caption id=""attachment_1182"" align=""aligncenter"" width=""300""]<img class=""wp-image-1182 size-medium"" src=""http://openeuroscience.com/wp-content/uploads/2016/01/scan.png?w=300"" alt=""scan"" width=""300"" height=""132"" /> from http://reproducibility.stanford.edu/[/caption]
+
+The <a href=""http://reproducibility.stanford.edu/"">Center for reproducible Neuroscience</a> was founded in 2015 with the aim of helping researchers make their science stand the test of time, by making it more open and reproducible (aka better science). The starting point of the center is neuroimaging, as they provide computational power, databanks for storing and sharing data and data analysis platform (to be launched in 2016), tuned to the field.",2,20160110,English
+1202,"Flypi -100$ microscope/behavioural setup!","We've been working in collaboration with the folks of TrendinAfrica (trendinafrica.org) to develop a cheap, yet reliable, open source microscopy system to be used by scientists and DIY biologists. It is called Flypi, since its original focus were experiments with <em>Drosophila </em>and it uses the Raspberry pi computer as its ""brains"".
+The project has been going quite well and we feel it is mature enough to gain some public attention (and hopefully adoption!) and also to enter the hackaday.io competition, which would help us further develop it! So please, visit the project page, share it with your networks and show us some love by giving us ""skulls"" @ https://hackaday.io/project/5059-flypi-100-microscopeexperimental-setup. Also check out the paper we are writing about it: https://open-labware.net/projects/flypi/",2,20160531,English
+1220,"The Hackaday citizen prize winners are out! And FlyPi made the cut!","<a href=""http://hackaday.com/2016/07/18/hackaday-prize-20-projects-that-make-us-all-citizen-scientists/""><img src=""https://hackadaycom.files.wordpress.com/2016/07/citizensciheader.png?w=720&amp;quality=80&amp;strip=info"" /></a>
+
+https://www.youtube.com/embed/Z2wWUilmWrg?version=3&amp;rel=1&amp;fs=1&amp;autohide=2&amp;showsearch=0&amp;showinfo=1&amp;iv_load_policy=1&amp;wmode=transparent
+<blockquote>We live in a time of unparalleled access to technology and this has the power to make life better for everyone. Today we are excited to announce twenty spectacular builds that use access to technology to move scientific exploration within the reach of all. These are the winners of the Citizen Scientist challenge of the…</blockquote>
+via <a href=""http://hackaday.com/2016/07/18/hackaday-prize-20-projects-that-make-us-all-citizen-scientists/"">Hackaday Prize: 20 Projects that Make Us All Citizen Scientists — Hackaday</a>",2,20160719,English
+1224,"The FlyPi in the eyes of Hackaday!","<a href=""http://hackaday.com/2016/07/26/hackaday-prize-entry-a-cheap-robotic-microscope/"">A<img src=""https://hackadaycom.files.wordpress.com/2016/07/2100501464725753899.jpg?w=720&amp;quality=80&amp;strip=info"" /></a>
+<blockquote>The microscope is one of the most useful instruments for the biological sciences, but they are expensive. Lucky for us, a factory in China can turn out webcams and plastic lenses and sell them for pennies. That’s the idea behind Flypi – a cheap microscope for scientific experiments and diagnostics that’s based on the ever-popular…</blockquote>
+via <a href=""http://hackaday.com/2016/07/26/hackaday-prize-entry-a-cheap-robotic-microscope/"">Hackaday Prize Entry: A Cheap Robotic Microscope — Hackaday</a>",2,-00011130,English
+1232,"Companies selling open source hardware/software","Two companies have incorporated the open source philosophy into their business models and are now providing products for neuroscience released under know open source licenses:
+
+<a href=""https://sanworks.io/index.php"">Sanworks</a>: After the success and demand of <a href=""http://openeuroscience.com/hardware-projects/optogenetics/pulse-pal/"">PulsePal</a>, Josh Sanders founded Sanworks, a company dedicated to providing systems for neuroscience research. A brief description on the company's website follows:
+<blockquote>Sanworks, L.L.C. develops automated systems for Neuroscience research, and streamlines access to them through an online assembly service. Our goal is to make Neuroscience tools open, affordable and accessible. We are especially focused on embedded systems for exploring the links between brain function and behavior.</blockquote>
+<a href=""http://www.spikegadgets.com/main/home.html"">Spike Gadgets</a>: Also dedicated to providing systems for neuroscience, Spike Gadgets is focusing at electrophysiology systems and providing a complete solution with hardware and software. Although only their software is open source, this already opens doors to a lot of interesting customization/changes. A brief description from the company's website:
+<blockquote>
+<p id=""aboutusparagraph"">SpikeGadgets is trying something new. Our hybrid approach is to design and sell powerful hardware that interfaces with an open-source software platform supported by a large community of scientists and developers. Our goal is to support the efforts of the open-source community in a commercially-sustainable way.</p>
+</blockquote>
+One of the founders, Mattias Karlsson, was kind enough to provide a brief description of their software, which can be found<a href=""http://openeuroscience.com/software/spike-gadgets/""> here</a>.
+
+&nbsp;",2,20160910,English
+1260,"Sharing reagents! The Reagent project","<a href=""http://www.thereagentproject.org/"">The Reagent Project</a> aims to upcycle reagents that are wasting away in lab fridges around the world. The idea is that researchers share their unused/ no longer necessary reagents with others that have samples but don’t have access to the reagents.
+
+[caption id=""attachment_1262"" align=""aligncenter"" width=""1500""]<img class="" size-full wp-image-1262 aligncenter"" src=""http://openeuroscience.com/wp-content/uploads/2016/09/ships.jpeg"" alt=""ships"" width=""1500"" height=""1125"" /> from: http://thereagentproject.org[/caption]
+
+This project and other related to wetware, are archived <a href=""http://openeuroscience.com/open-wetware/"">here</a>.",2,20160912,English
+1326,Backlog,"On an attempt to make things even more open at Openeuroscience.com and take a little bit of the publishing delay away, we've decided to create the <a href=""https://www.openeuroscience.com/backlog/"">backlog page. </a>
+
+In this page you'll find all projects that we are planning to upload to the website but didn't get a chance yet! This way we are not stopping the information spread, and people get to make comments about the projects before they are curated.
+
+[caption id=""attachment_1327"" align=""aligncenter"" width=""300""]<img class=""size-medium wp-image-1327"" src=""https://www.openeuroscience.com/wp-content/uploads/2016/12/back-log-a-300x201.jpg"" alt=""From: https://thegrimbrothers.files.wordpress.com/2011/02/back-log-a.jpg"" width=""300"" height=""201"" /> From: https://thegrimbrothers.files.wordpress.com/2011/02/back-log-a.jpg[/caption]",1,20161206,English
+1335,"new pages Jan/2017","The following projects/pages were curated and added to open neuroscience on Dec/16-Jan/17:
+
+Attys: https://wp.me/P82mzJ-lu
+
+Allen Brain Map: https://wp.me/P82mzJ-l8
+
+Vision Egg: https://wp.me/P82mzJ-lc
+
+Frontiers collection on Python for Neurosciences: https://wp.me/P82mzJ-kA
+
+PySpace: https://wp.me/P82mzJ-kW
+
+BackLog: https://wp.me/P82mzJ-5S",1,20170112,English
+1370,"New collaboration between PLOS and Open Neuroscience","We are happy to announce that a new Open Source toolkit channel went live today at https://channels.plos.org/open-source-toolkit.
+This channel is a joint collaboration from <a href=""http://openeuroscience.com"">Open Neuroscience</a>, <a href=""http://trendinafrica.org"">Trend in Africa</a> and <a href=""http://plos.org"">PLOS</a>. There you will find several open source projects related to science. They range all disciplines and comprehend both software and hardware. It is open for suggestions and interaction from the community!
+
+[caption id=""attachment_1371"" align=""aligncenter"" width=""300""]<a href=""https://channels.plos.org/open-source-toolkit""><img class=""wp-image-1371 size-medium"" src=""https://www.openeuroscience.com/wp-content/uploads/2017/03/Screenshot-2017-03-07-19.11.25-e1488911099256-300x165.png"" width=""300"" height=""165"" /></a> Channel's front page[/caption]",1,20170307,English
+1382,Autoreward2,"The <strong>motivation</strong> to start this project arises when we started to include a new behavioral paradigm in the lab, an alternation T-mace with return arms (like the one in Wood e<em>t al. </em>2000). We wanted a clean performance, as well as a clean video record, so we consider necessary to interfere neither with the animal attention (mice, how they are!) nor the camera’s field of view. I decided then to give a try to the new hobby I was getting into, “Do-It-Yourself” (DIY) stuff.
+
+In my head, it was pictured very simple. At the end of the day, I just needed a) something to detect the animal passing by, b) something to deliver a drop of water and c) something to make it happen in a coordinated way. And that’s what Autoreward2 is, no more, no less.
+
+Well perhaps it is a bit more. <strong>So far, the project can</strong>:
+<ul>
+ 	<li><strong>Detect </strong>when the animal reaches the end of any of the two arms.</li>
+ 	<li><strong>Deliver</strong> a small drop of fluid through the corresponding licking port (easy to make it happen in the opposite, if wanted).</li>
+ 	<li>Give visual cues to the experimenter, indicating which arm has been reached.</li>
+ 	<li>Allow to <strong>select</strong> different modes of working for different working protocols: ‘Waiting for selection’, ‘Habituation’, ‘Training’, ‘Experimental’ and “Filling and cleaning” modes (and is ready to include more!).</li>
+</ul>
+To achieve it, I decided for very <strong>simple approach</strong>. A couple of cheap infrared emitters are continuously read by an UNO R3 board. Breaking any of the beams triggers the signal to open the corresponding solenoid valve, connected to the fluid tank. That lets the liquid flow by gravity for around 75 milliseconds, resulting in a single drop at the tip of the licking port.
+
+There is a delay after each detection, to avoid repetitive delivery if animals don’t leave the area. A couple LEDs mounted in the bare-board (out of animal sight) light up when the process is triggered, one for each side. They also work as indicators for the ‘Waiting for selection’ mode, when they are continuously on, meanwhile no option is choose or the ‘return to waiting mode action’ is pressed.
+
+<strong>The selection</strong> is made through a 4x4 membrane keypad. Right now, only options 1 to 4 are programmed, making up to 12 more programs available! When any section is made, the in-built LED blinks the corresponding times and the system is ready to work. At any moment, pressing any key makes the system reset to the waiting mode. As easy as that.
+
+Everything is <strong>powered</strong> by a regular 9V wall adapter, giving 3.3V to the LEDs and Infrared detectors, and 9V to the solenoids. Of course, it is possible to use a 9V batterie to power it. To avoid damage coming from the solenoid discharges, the circuit is protected by a couple of diodes at this level.
+
+And that’s all, <strong>it’s simple</strong>. The most important thing: it <strong>works</strong>. The other most important thing: it costs around<strong> 80€</strong>. Here is the to-buy list (or equivalent):
+<ul>
+ 	<li>Elegoo UNO R3 (I found them for <strong>10€</strong>, with USB cable)</li>
+ 	<li>BreadBoard + Acrylic base (<strong>7€</strong>)</li>
+ 	<li>9V 1A Wall power supply (<strong>9€</strong>)</li>
+ 	<li>2x InfraRed beams, 5mm (<strong>15€</strong> both, the 3mm ones are even cheaper)</li>
+ 	<li>2x Mini-Solenoid valves (<strong>10€</strong> both)</li>
+ 	<li>2x red LEDs</li>
+ 	<li>4x 1 KΩ resistors</li>
+ 	<li>2x TIP120 Transistors</li>
+ 	<li>2x 1N4001 diodes</li>
+ 	<li>Wiring (set of jumpers for less than <strong>10€</strong>)</li>
+ 	<li>‘Velcro’ to attach the acrylic base where the boards are mounted.</li>
+ 	<li>Plastic tubing and laboratory sample tubes, modified with turning siringe tips to attach/deattach the tubing easily.</li>
+ 	<li>2x or 4x weak magnets to fix the tubes to the walls.</li>
+</ul>
+Feel free to access the <a href=""https://github.com/jjballesteros/Arduino-AutoReward"">Github</a> page or the <a href=""http://forum.arduino.cc/index.php?topic=476643.0"">Arduino forum post</a> to obtain the <strong>code</strong>, check for the circuit <strong>sketch</strong>, and see some <strong>pictures</strong>.
+
+PD: If someone is scandalized by the code, I am getting better on it, it is not my main strength. Please, improve it! Of course, I have in mind many possible upgrades such as a screen, a SD card port, to change the Keypad for a wireless interface (tactile?) … Did someone say smartphone plus Bluetooth? Going fancy, a barcode reader to easily introduce subjects’ data… And here is where I relay in the open-access idea, I offer it and hopefully someone implement any of the ideas. If so, remember to share!
+
+Jesús J. Ballesteros",5,20170801,English
+1463,"Open Neuroscience is looking for collaborators!","Are you a science fan? 
+Do you feel science should be more open and accessible? 
+You would like to contribute but you don’t know how? Then keep reading!
+
+
+We are currently looking for curators to help us with the website content on a volunteer basis. 
+If you would like to contribute, get in touch! Email, private message, smoke signs!",1,20171201,English
