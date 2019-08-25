@@ -22,7 +22,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Hardware', link: '/hardware'}
   - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/about/contact'}
+  - {name: 'Contact', link: '/contact'}
 
 tagline: >
   Repository for Open Source Neuroscience projects!
