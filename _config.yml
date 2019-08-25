@@ -11,7 +11,7 @@ social:
   name: Open Neuroscience
   links:
     - https://twitter.com/openeuroscience
-    #- https://www.facebook.com/ben.balter
+    - https://www.facebook.com/OpenNeuroscience/
     #- https://www.linkedin.com/in/BenBalter
     #- https://plus.google.com/+BenBalter
     - https://github.com/open-neuroscience
@@ -20,6 +20,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
+  - {name: 'Hardware', link: '/hardware'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
