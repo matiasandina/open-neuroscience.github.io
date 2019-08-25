@@ -8,7 +8,7 @@ url: "https://open-neuroscience.github.io/" # the base hostname & protocol for y
 
 # SEO PLUGIN
 social:
-  name: Your Name
+  name: Open Neuroscience
   links:
     - https://twitter.com/openeuroscience
     #- https://www.facebook.com/ben.balter
@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  Repository for Open Source Neuroscience projects!
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
