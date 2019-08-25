@@ -22,7 +22,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Hardware', link: '/hardware'}
   - {name: 'About', link: '/about'}
-  - {name: 'Contact', link: '/contact'}
+  - {name: 'Contact', link: '/about/contact'}
 
 tagline: >
   Repository for Open Source Neuroscience projects!
@@ -57,7 +57,7 @@ exclude:
   - vendor
   - npm-debug.log
   - gulpfile.js
-  - sleek.jpg
+  #- sleek.jpg
 
 include: ['_pages']
 permalink: /:title/
