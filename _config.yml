@@ -21,6 +21,7 @@ social:
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Hardware', link: '/hardware'}
+  - {name: 'Software', link: '/software'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
@@ -45,7 +46,7 @@ service_worker: true
 # BUILD SETTINGS
 markdown: kramdown
 highlighter: rouge # or pygments or null
-# theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
+#theme: jekyll-sleek # Uncomment if you're using the theme as a ruby gem
 exclude:
   - README.md
   - node_modules
@@ -57,7 +58,8 @@ exclude:
   - vendor
   - npm-debug.log
   - gulpfile.js
-  - jekyll-export_copy_to_strip
+  - hardware1
+  #- jekyll-export_copy_to_strip
   #- sleek.jpg
 
 include: ['_pages']

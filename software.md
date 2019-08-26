@@ -1,6 +1,6 @@
 ---
-title: Hardware
-featured-img: shane-rounce-205187
+title: Software
+#featured-img: shane-rounce-205187
 #date: 2013-01-29T19:12:19+00:00
 author: amchagas
 layout: page
@@ -14,7 +14,7 @@ layout: page
 
       {% for post in site.posts %}
       {% for category in post.categories %}
-      {% if category == "Hardware" %}
+      {% if category == "Software" %}
         {% include card.html %}
       {% endif %}
       {% endfor %}
