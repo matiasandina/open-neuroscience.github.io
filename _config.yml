@@ -22,6 +22,7 @@ navigation: # Navigation links
   - {name: 'Home', link: '/'}
   - {name: 'Hardware', link: '/hardware'}
   - {name: 'Software', link: '/software'}
+  - {name: 'Computers', link: '/_pages/computers'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
