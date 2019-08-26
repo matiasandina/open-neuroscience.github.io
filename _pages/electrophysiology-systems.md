@@ -4,6 +4,7 @@ title: Electrophysiology systems
 author: amchagas
 layout: page
 categories: Hardware
+featured-img: /img/pages/emile-perron-190221_md
 ---
 &nbsp;
 
