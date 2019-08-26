@@ -1,0 +1,42 @@
+<div class="page-card" itemprop="blogPosts" itemscope="" itemtype="http://schema.org/BlogPosting">
+  {% if page.categories %}
+    {% assign categories = page.categories %}
+    <span class="page-card__label">
+      {% for category in categories %}
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}" class="label"> {{ category }} </a>
+        {% unless forloop.last %}&nbsp;{% endunless %}
+      {% endfor %}
+    </span>
+  {% endif %}
+  <a href="{{ page.url | relative_url }}">
+    {% if page.featured-img %}
+      <figure class="page-card__thumb">
+        <img
+          src="{{ site.url }}{{ site.baseurl }}/assets/img/pages/{{page.featured-img}}_placehold.jpg"
+          data-srcset="{{ site.url }}{{ site.baseurl }}/assets/img/pages/{{page.featured-img}}_thumb.jpg, {{ site.url }}{{ site.baseurl }}/assets/img/pages/{{page.featured-img}}_thumb@2x.jpg 2x"
+          class="lazyload blur"
+          alt="{{page.title}}"
+        />
+        <noscript><img src="{{ site.url }}{{ site.baseurl }}/assets/img/pages/{{page.featured-img}}_thumb.jpg" alt="{{ page.title }}"></noscript>
+      </figure>
+    {% else %}
+      <figure class="page-card__thumb">
+        <div class="dark-bg"></div>
+      </figure>
+    {% endif %}
+  </a>
+  <a class="page-card__inner" href="{{ page.url | relative_url }}">
+    <div class="page-card__header">
+      <h2>{{ page.title | strip_html | truncate: 50 }}</h2>
+      {% assign date_format = site.sleek.date_format | default: "%b %-d, %Y" %}
+      <span class="page-card__meta">
+        <time>{{ page.date | date: date_format }}</time>
+      </span>
+    </div>
+    {% if page.summary %}
+      <p>{{ page.summary | strip_html | truncatewords:20 }}</p>
+    {% else %}
+      <p>{{ page.content | strip_html | truncatewords: 20 }}</p>
+    {% endif %}
+  </a>
+</div>

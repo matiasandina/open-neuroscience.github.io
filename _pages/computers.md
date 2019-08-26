@@ -1,26 +1,12 @@
 ---
-
 title: Single board computers
-date: 2013-06-19T21:24:56+00:00
+#date: 2013-06-19T21:24:56+00:00
 author: amchagas
 layout: page
+featured-img: shane-rounce-205187
+categories: Hardware
 ---
-<section class="blog">
-  <div class="container">
-    <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
 
-      {% for post in site.posts %}
-      {% for category in post.categories %}
-      {% if category == "Hardware" %}
-        {% include card.html %}
-      {% endif %}
-      {% endfor %}
-      {% endfor %}
-
-      <!-- {% include pagination.html %} -->
-    </div>
-  </div>
-</section>
 
 &nbsp;
 

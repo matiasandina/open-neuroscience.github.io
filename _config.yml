@@ -20,7 +20,7 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Hardware', link: '/hardware'}
+  - {name: 'Hardware', link: '/_pages/hardware'}
   - {name: 'Software', link: '/software'}
   - {name: 'Computers', link: '/_pages/computers'}
   - {name: 'About', link: '/about'}

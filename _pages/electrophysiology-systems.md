@@ -1,12 +1,9 @@
 ---
-id: 238
+featured-img: shane-rounce-205187
 title: Electrophysiology systems
-date: 2013-06-19T22:08:58+00:00
 author: amchagas
 layout: page
-guid: http://openeuroscience.wordpress.com/?page_id=238
-geo_public:
-  - "0"
+categories: Hardware
 ---
 &nbsp;
 
