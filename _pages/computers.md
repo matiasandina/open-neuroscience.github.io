@@ -3,7 +3,7 @@ title: Single board computers
 #date: 2013-06-19T21:24:56+00:00
 author: amchagas
 layout: page
-featured-img: /assets/img/posts/shane-rounce-205187
+featured-img: shane-rounce-205187
 categories: Hardware
 ---
 
