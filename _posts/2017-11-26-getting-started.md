@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: page
+categories: [Hardware] 
 title: Getting Started with Sleek
 featured-img: sleek
 mathjax: true

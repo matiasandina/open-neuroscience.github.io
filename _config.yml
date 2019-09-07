@@ -20,9 +20,9 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Hardware', link: '/hardware'}
-  - {name: 'Software', link: '/software'}
-  - {name: 'Computers', link: '/computers'}
+  - {name: 'Hardware', link: '/main_areas/hardware'}
+  - {name: 'Software', link: '/main_areas/software'}
+  - {name: 'Learning resources', link: '/main_areas/learning'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
@@ -34,7 +34,7 @@ hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/
 email: openeuroscience@gmail.com # email for form submission
 
 twitter_username: openeuroscience # replace with your_twitter_username or comment to remove link from footer
-github_username:  amchagas # replace with your_github_username or comment to remove link from footer
+github_username:  open-neuroscience # replace with your_github_username or comment to remove link from footer
 #instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
 
 #disqus:
@@ -59,7 +59,6 @@ exclude:
   - vendor
   - npm-debug.log
   - gulpfile.js
-  - hardware1
   #- jekyll-export_copy_to_strip
   #- sleek.jpg
 
