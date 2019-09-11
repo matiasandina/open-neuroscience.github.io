@@ -20,9 +20,11 @@ social:
 # THEME SETTINGS
 navigation: # Navigation links
   - {name: 'Home', link: '/'}
-  - {name: 'Hardware', link: '/main_areas/hardware'}
-  - {name: 'Software', link: '/main_areas/software'}
-  - {name: 'Learning resources', link: '/main_areas/learning'}
+  - {name: 'Hardware', link: '_pages/main_areas/hardware/'}
+  - {name: 'Software', link: '_pages/main_areas/software/'}
+  - {name: 'Databases & Data sharing', link: '_pages/main_areas/database/'}
+  - {name: 'Other projects', link: '_pages/main_areas/other/'}
+  - {name: 'Learning resources', link: '_pages/main_areas/learning/'}
   - {name: 'About', link: '/about'}
   - {name: 'Contact', link: '/contact'}
 
