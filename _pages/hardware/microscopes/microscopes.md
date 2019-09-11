@@ -1,12 +1,28 @@
 ---
-title: Microscopy hardware
-date: 2013-11-03T14:40:04+00:00
+title: Microscopes
 author: amchagas
 featured-img: shane-rounce-205187
 layout: page
-categories: Hardware
+categories: [Hardware]
 
 ---
+
+<section class="blog">
+  <div class="container">
+    <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+      {% for page in site.pages %}
+        {% for category in page.categories %}
+          {% if category == "Microscope" %}
+            {% include card_page.html %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+
+
+    </div>
+  </div>
+</section>
+
 In this section are listed amazing projects that actually managed to build entire microscopes from scratch, or modify them for specific needs. Most of the times drastically reducing the implementation costs of such devices.
 
 [Scanning electron microscope.](http://openeuroscience.wordpress.com/hardware-projects/scanning-electron-microscope/ "Scanning electron microscope")

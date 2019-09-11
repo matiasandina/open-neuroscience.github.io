@@ -1,13 +1,26 @@
 ---
-title: Single board computers
-#date: 2013-06-19T21:24:56+00:00
+title: Computers
 author: amchagas
 layout: page
 featured-img: computers_placehold.jpeg
-categories: Hardware
-mathjax: true
+categories: [Hardware]
 ---
 
+<section class="blog">
+  <div class="container">
+    <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
+      {% for page in site.pages %}
+        {% for category in page.categories %}
+          {% if category == "Computers" %}
+            {% include card_page.html %}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+
+
+    </div>
+  </div>
+</section>
 
 &nbsp;
 

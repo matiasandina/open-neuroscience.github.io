@@ -1,11 +1,10 @@
 ---
-id: 975
 title: Open prosthetics and robotics
 date: 2015-01-31T22:08:16+00:00
 author: amchagas
 featured-img: shane-rounce-205187
 layout: page
-categories: Hardware
+categories: [Hardware]
 ---
 With the rise of low cost 3D printers, and other cheap manufacturing tools, the field of robotics and prosthetics has been gaining quite a few open source projects. Two very nice compilations can be found at [openrobot hardware](//openrobothardware.org/) and at [Soft robotics toolkit](http://softroboticstoolkit.com/). Below are some related to neuroscience:
 
