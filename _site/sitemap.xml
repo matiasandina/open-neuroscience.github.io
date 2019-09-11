@@ -5,6 +5,10 @@
 <lastmod>2014-02-19T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/3d-printing/</loc>
+<lastmod>2014-02-19T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/super-long-article/</loc>
 <lastmod>2016-05-20T00:00:00+01:00</lastmod>
 </url>
@@ -15,6 +19,10 @@
 <url>
 <loc>http://localhost:4000/welcome-to-jekyll11/</loc>
 <lastmod>2016-05-20T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/autoreward2/</loc>
+<lastmod>2017-08-02T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/markdown-cheatsheet/</loc>
@@ -82,6 +90,9 @@
 <loc>http://localhost:4000/_pages/hardware/computer_clusters/boinc/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/_pages/hardware/supercomputers/boinc/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/_pages/hardware/electrophysiology/human/bpm_biosignal/</loc>
 </url>
 <url>
@@ -127,6 +138,9 @@
 <loc>http://localhost:4000/_pages/main_areas/hardware/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/_pages/hardware/electrophysiology/human/human-brain-interactors/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/_pages/software/image-office-suits-and-other-general-purpose-software/</loc>
 </url>
 <url>
@@ -143,6 +157,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/_pages/main_areas/learning/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/hardware/led_panels/led-panels/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/_pages/hardware/stimulators/visual/led_panels/</loc>
@@ -205,6 +222,9 @@
 <loc>http://localhost:4000/_pages/hardware/microscopes/openstage/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/_pages/hardware/optogenetics/optogenetics/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/_pages/hardware/stimulators/optogenetics/optogenetics/</loc>
 </url>
 <url>
@@ -212,6 +232,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/_pages/hardware/computer_clusters/parallela/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/hardware/supercomputers/parallela/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/_pages/hardware/prosthetics_n_robots/prosthetics-and-robotics/</loc>
@@ -233,6 +256,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/_pages/hardware/computer_clusters/raspberry-pi-based/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/hardware/supercomputers/raspberry-pi-based/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/_pages/hardware/computers/red-pitaya/</loc>
@@ -262,6 +288,9 @@
 <loc>http://localhost:4000/_pages/hardware/prosthetics_n_robots/super_releaser/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/_pages/hardware/supercomputers/supercomputers/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/_pages/hardware/benchtop/syringe_pumps/syringe_pump1/</loc>
 </url>
 <url>
@@ -275,6 +304,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/_pages/hardware/prosthetics_n_robots/the_yale_open_hand_project/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/_pages/hardware/benchtop/thermocyclers/thermocyclers/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/_pages/software/vision-egg/</loc>
