@@ -12,10 +12,7 @@ social:
   links:
     - https://twitter.com/openeuroscience
     - https://www.facebook.com/OpenNeuroscience/
-    #- https://www.linkedin.com/in/BenBalter
-    #- https://plus.google.com/+BenBalter
     - https://github.com/open-neuroscience
-    #- https://keybase.io/benbalter
 
 # THEME SETTINGS
 navigation: # Navigation links
@@ -61,8 +58,7 @@ exclude:
   - vendor
   - npm-debug.log
   - gulpfile.js
-  #- jekyll-export_copy_to_strip
-  #- sleek.jpg
+  - sleek.jpg
 
 include: ['_pages']
 permalink: /:title/
