@@ -3,7 +3,7 @@ title: Autoreward 2
 author: JJ Ballesteros
 layout: page
 categories: [Behaviour]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 
 

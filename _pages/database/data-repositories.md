@@ -3,7 +3,7 @@ title: Data repositories
 author: amchagas
 layout: page
 categories: [Database]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 In here are some examples of tools that can be used to share/store data collected. Published a paper and think that people would benefit from looking at the raw data? Want to make that data that has been stored for years useful? Here you&#8217;ll find some options on how to do it.
 

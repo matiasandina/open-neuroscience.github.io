@@ -3,7 +3,7 @@ title: 'Python, NumPy, SciPy &#038; Matplotlib'
 author: amchagas
 layout: page
 categories: [Software]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 Python is a free programming language that is widely used, most of the software developed for Linux is written in Python. It contains several libraries that cover a lot of problem domains, from asynchronous processing to zip files. Also it is available for most platforms. More information can be found at the language&#8217;s [official page.](http://www.python.org/)
 

@@ -2,7 +2,7 @@
 title: NiBabel
 author: amchagas
 layout: page
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 categories: [Data analysis]
 ---
 

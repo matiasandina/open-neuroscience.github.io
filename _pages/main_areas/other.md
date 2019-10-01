@@ -1,6 +1,6 @@
 ---
 title: Other Projects
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 author: amchagas
 layout: page
 categories: [Topic]

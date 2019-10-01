@@ -1,7 +1,7 @@
 ---
 title: Stimulators
 author: amchagas
-featured-img: led_panel
+featured-img: openneuroscience
 layout: page
 categories: [Hardware]
 ---

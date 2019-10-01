@@ -1,10 +1,8 @@
 ---
-
 title: Backlog
-date: 2016-12-04T11:15:09+00:00
 author: amchagas
 layout: page
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 categories: [Topic]
 ---
 Bellow is a list of interesting projects related to science and research, that we didn&#8217;t have time to curate yet. Feel free to browse through them and make comments and suggestions!

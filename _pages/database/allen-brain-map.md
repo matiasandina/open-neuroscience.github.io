@@ -3,7 +3,7 @@ title: Allen Brain Map
 author: amchagas
 layout: page
 categories: [Database]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 
 [The Brain Map](http://www.brain-map.org/) is one of the initiatives of the [Allen Institute](http://www.alleninstitute.org/about/).

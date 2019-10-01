@@ -2,7 +2,7 @@
 title: Crowd funding
 author: amchagas
 layout: page
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 categories: [Other]
 ---
 As many other things that are being decentralized with the advent of the internet, so is research. One of the very things being decentralized is the funding source for research projects. This movement is called crowdfunding, and it is already present and strong for other areas, such as funding of technological, and social projects. They are organized via specialised websites that puts people needing funding with people who are willing to support it:

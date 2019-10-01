@@ -3,7 +3,7 @@ title: Green Brain
 author: amchagas
 layout: page
 categories: [Simulation]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 [The Green Brain project](http://greenbrain.group.shef.ac.uk/) wants to create an artificial _Apis mellifera_ brain and implement said brain into a robot, that will be able to fly and and behave just like a honey bee!
 

@@ -2,7 +2,7 @@
 title: 5 Dollar PCR machine
 date: 2015-06-09T09:53:14+00:00
 author: amchagas
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 layout: page
 categories: Benchtop
 ---

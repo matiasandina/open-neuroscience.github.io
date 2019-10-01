@@ -3,7 +3,7 @@ title: Lab management software
 author: amchagas
 layout: page
 categories: [Software]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 Since organisation of ideas, stocks, and projects is a major concern (or at least should be) of labs and researchers, here is a small compilation of cost free sofware to help out:
 

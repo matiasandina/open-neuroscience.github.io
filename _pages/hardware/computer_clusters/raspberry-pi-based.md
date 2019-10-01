@@ -3,7 +3,7 @@ title: Raspberry pi based
 author: amchagas
 layout: page
 categories: [Computer clusters]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 Here are two projects that use raspberry pi&#8217;s as the basic units of a supercomputer:
 

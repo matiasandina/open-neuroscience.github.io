@@ -2,7 +2,7 @@
 title: Computers
 author: amchagas
 layout: page
-featured-img: computers_placehold.jpeg
+featured-img: computers
 categories: [Hardware]
 ---
 

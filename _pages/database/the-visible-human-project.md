@@ -2,7 +2,7 @@
 title: The Visible Human project
 author: amchagas
 layout: page
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 categories: [Database]
 ---
 [The Visible Human Project](https://www.nlm.nih.gov/research/visible/visible_human.html) is a database of anatomical images (MR, CT and radiography) from male and female bodies. Information about the database is translated into a couple of different languages. Although an license needs to be signed and sent over to the NIH, the procedure seems to be straightforward and cost free.

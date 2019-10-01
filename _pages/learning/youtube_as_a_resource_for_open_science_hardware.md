@@ -2,7 +2,7 @@
 title: YouTube as a resource for Open Science Hardware
 author: Benjamin Paffhausen
 layout: page
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 categories: [Learning]
 ---
 When working with Open Hardware, Google search will become your friend, whether you want it or not. Other search engines, such as DuckDuckGo won’t cut it (it is much harder to find what you are looking for, especially in cases where you don’t know all specific terms). Google is a fantastic tool to find answers. But if you are new in electronic development, and in programming, or even if you are going to work in a new subfield, you may not even know what you don’t know. What to search for if you don’t know what the problem or component is called? Here I’d like to suggest YouTube. You want to get involved with Arduinos and a interesting sensor. Go and search for ‘Arduino _interesting sensor_’ on YouTube. There are many videos, long and short, explaining in more or less depth, more or less funny, what you can expect, and more importantly what the used components  are called. I normally start by watching a few short videos to make sure that system is what I’m looking for. Afterwards, I look into several longer, deeper videos. You will get a great overview of components and alternatives regarding code and hardware.

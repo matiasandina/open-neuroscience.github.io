@@ -3,7 +3,7 @@ title: Image, Office suites, and other general purpose software
 author: amchagas
 layout: page
 categories: [Software]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 If you are using Linux, changes are that this page is not that useful for you, since most of these programs come installed by default. For you who are not yet into linux, most of these programs have Windows/Mac versions:
 

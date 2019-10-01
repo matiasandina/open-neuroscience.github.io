@@ -2,7 +2,7 @@
 title: Nipy
 author: amchagas
 layout: page
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 categories: [Data analysis]
 ---
 [NiPy](http://nipy.org/) is an effort to make brain imaging research easier and more clear. This is implemented by providing a series of software that deal with file IO, analysis, and interfaces & pipelines.

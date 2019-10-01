@@ -1,6 +1,6 @@
 ---
 title: Brain Map
-featured-img: microscopes
+featured-img: openneuroscience
 #date: 2013-01-29T19:12:19+00:00
 author: amchagas
 layout: page

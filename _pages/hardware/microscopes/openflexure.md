@@ -4,7 +4,7 @@ title: OpenFlexure
 categories: [Microscope]
 author: amchagas
 layout: page
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 
 OpenFlexure is a 3D printed flexure translation stage, developed by a group in Cambridge. The stage is capable of sub-micron-scale motion, with very small drift over time. Which makes it quite good, among other things, for time-lapse protocols that need to be done over days/weeks time, and under space restricted areas, such as fume hoods. A paper describing it in detail can be found [here](http://arxiv.org/abs/1509.05394).

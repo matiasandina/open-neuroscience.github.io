@@ -1,6 +1,6 @@
 ---
 title: OpenSpritzer
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 author: amchagas
 layout: page
 categories: [Benchtop]
@@ -15,6 +15,6 @@ Was later further developed by [Chris](https://chrisjforman.com/) at the [Baden 
   ![openSpritzer](http://raimondolab.com/wp-content/uploads/2013/12/puffadder-picospritzer.jpg "first open spritzer")
 
 
-  
+
 
 Details on how to build it, can be found on the [project's Git repository](https://github.com/BadenLab/Openspritzer/).

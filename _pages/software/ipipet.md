@@ -3,7 +3,7 @@ title: IPipet
 author: amchagas
 layout: page
 categories: [Software]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 panels_data:
   - |
     a:3:{s:7:"widgets";a:2:{i:0;a:11:{s:5:"title";s:0:"";s:4:"text";s:701:"IPipet is a neat system to help you not to lose track of which wells you have already pipetted in or from. The idea is simple, you place a tablet running a link with your specific pipetting protocol under your source and destination plates. The tablet will illuminate the corresponding wells. After you pipette one sample, you press next on the tablet and the next sample will be illuminated. For more details watch the video (below) and visit the <a href="http://ipipet.teamerlich.org/usage">project's homepage.</a> They even have a <a href="http://www.thingiverse.com/thing:339588">3D printable adaptor</a> to prevent the well plate from slipping on the tablet surface.

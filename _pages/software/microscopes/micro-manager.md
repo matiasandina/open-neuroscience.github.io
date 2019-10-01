@@ -2,7 +2,7 @@
 title: Micro-Manager
 author: amchagas
 categories: [Microscopes software]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 
 

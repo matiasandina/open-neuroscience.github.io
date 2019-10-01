@@ -3,7 +3,7 @@ title: Pulse Pal
 author: JSanders
 layout: page
 categories: [Optogenetics]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 
 

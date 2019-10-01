@@ -3,7 +3,7 @@ title: Open Microscopy Environment
 author: amchagas
 layout: page
 categories: [Microscopes software]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 The [Open Microscopy Environment](https://www.openmicroscopy.org/site) is a collaborative project between several labs. They are developing file formats and software standards for light microscopy.
 

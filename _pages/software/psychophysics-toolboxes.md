@@ -3,7 +3,7 @@ title: Psychophysics toolboxes
 author: amchagas
 layout: page
 categories: [Software]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 Roughly put, [psychophysics](http://en.wikipedia.org/wiki/Psychophysics) studies the relationships of physical stimuli and their respective elicited sensations and perception. Psyhophysics also relates to the techniques used to probe these relationships and the toolboxes here presented are mainly dealing with these techniques.
 

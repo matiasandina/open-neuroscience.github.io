@@ -3,7 +3,7 @@ title: Big Neuron
 author: amchagas
 layout: page
 categories: [Simulation]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 panels_data:
   - |
     a:3:{s:7:"widgets";a:1:{i:0;a:8:{s:5:"title";s:0:"";s:4:"text";s:768:"<p><a href="http://alleninstitute.org/bigneuron/about/" target="_blank" rel="noopener">Big Neuron</a> wants to create a standard for the field of single neuron reconstruction. Because the data available comes from different structures, different organisms, using different collection and analyses algorithms and is in the range of petabytes (according to the project site), there is a strong need for standards that will allow this huge amount of data to be compared.</p>

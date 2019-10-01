@@ -1,10 +1,8 @@
 ---
-id: 161
 title: Interesting projects
-date: 2013-04-15T13:55:23+00:00
 author: amchagas
 layout: page
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 categories: [Other]
 ---
 It is great that there are other interesting projects out there that are also concerned with making science available to more people! Here is a short list of projects I came across. They are not necessarily focusing on open source, but worth getting to know anyhow:

@@ -3,7 +3,7 @@ title: Spike Gadgets
 author: amchagas
 layout: page
 categories: [Software]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 A brief description of Spike gadgets can be found [here](http://openeuroscience.com/2016/09/10/companies-selling-open-source-hardwaresoftware/). In this page you&#8217;ll find a description of their current software (09.Sep.2016), provided by one of their founders, Mattias Karlsson.
 

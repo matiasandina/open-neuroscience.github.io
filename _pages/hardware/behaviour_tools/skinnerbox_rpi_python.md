@@ -4,7 +4,7 @@ title: Skinner Box with RPi+Python
 author: amchagas
 layout: page
 categories: [Behaviour]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 
 This project was developed by [Katherine Scott](http://www.kscottz.com/about/) to be presented at the PyCon 2014. She developed a skinner box for her pet rats using a raspberry pi and some 3D printed parts. The setup contain a food dispenser, a buzzer, levers, a camera to observe the animals and it is hooked in a way that everything can be controlled over the internet!

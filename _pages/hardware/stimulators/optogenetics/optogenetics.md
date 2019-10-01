@@ -2,7 +2,7 @@
 title: Optogenetics
 date: 2013-07-23T15:16:25+00:00
 author: amchagas
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 layout: page
 categories: [Optogenetics]
 ---

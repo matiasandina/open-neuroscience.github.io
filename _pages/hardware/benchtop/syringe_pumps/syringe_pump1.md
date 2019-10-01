@@ -1,7 +1,7 @@
 ---
 title: Syringe Pump
 author: amchagas
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 layout: page
 categories: [Benchtop]
 ---

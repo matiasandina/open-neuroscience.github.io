@@ -3,7 +3,7 @@ title: BrainBrowser
 author: amchagas
 layout: page
 categories: [Data analysis]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 
 

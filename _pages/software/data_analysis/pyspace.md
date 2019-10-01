@@ -2,7 +2,7 @@
 title: PySpace
 author: amchagas
 layout: page
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 categories: [Data analysis]
 ---
 [PySpace](https://pyspace.github.io/pyspace/) is a signal processing and classificiation environment for Python.

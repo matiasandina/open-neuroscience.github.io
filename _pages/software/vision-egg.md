@@ -3,7 +3,7 @@ title: Vision Egg
 author: amchagas
 layout: page
 categories: [Software]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 [Vision Egg](http://visionegg.org/) is a Python library for generating visual stimuli.
 

@@ -3,7 +3,7 @@ title: Addgene
 author: amchagas
 layout: page
 categories: [Database]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 
 

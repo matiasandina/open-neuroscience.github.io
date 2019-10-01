@@ -1,14 +1,12 @@
 ---
-id: 772
 title: Nose poke device for rats using arduino and 3d printed parts
-date: 2014-06-15T07:34:32+00:00
 author: amchagas
 layout: page
-guid: http://openeuroscience.wordpress.com/?page_id=772
+featured-img: openneuroscience
 ---
 This is a small set of instructions on how to build a nose poke device for rats, using an arduino, some 3D printed parts (in this case a printrbot LC) and some cheap electronic components.
 
-<span class="embed-youtube" style="text-align:center; display: block;"></span> 
+<span class="embed-youtube" style="text-align:center; display: block;"></span>
 
 All the files necessary to reproduce this can be found at: https://github.com/amchagas/poke\_device\_arduino
 

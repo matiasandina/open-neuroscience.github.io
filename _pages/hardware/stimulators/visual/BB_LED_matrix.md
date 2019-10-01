@@ -1,6 +1,6 @@
 ---
 title: BB LED Matrix
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 author: amchagas
 layout: page
 categories: [Visual]

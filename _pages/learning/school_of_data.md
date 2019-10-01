@@ -2,7 +2,7 @@
 title: School of Data
 author: Agustín Solano
 layout: page
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 categories: [Learning]
 panels_data:
   - |

@@ -3,7 +3,7 @@ title: Open Hand Project
 author: amchagas
 layout: page
 categories: [Prosthetics]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 [The Open hand project](http://www.openhandproject.org/) has a very simple goal: To make robotic prosthetic hands accessible to more people, through the reduction of manufacturing costs through 3D printing and other technologies. On their video below they show some nice force and precision grips being executed by the hand.<figure id="attachment_980" style="width: 300px" class="wp-caption aligncenter">
 

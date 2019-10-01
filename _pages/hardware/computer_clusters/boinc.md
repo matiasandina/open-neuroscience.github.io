@@ -3,7 +3,7 @@ title: Boinc
 author: amchagas
 layout: page
 categories: [Computer clusters]
-featured-img: computer_cluster
+featured-img: openneuroscience
 ---
 
 

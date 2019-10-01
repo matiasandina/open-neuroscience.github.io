@@ -2,7 +2,7 @@
 title: Open prosthetics and robotics
 date: 2015-01-31T22:08:16+00:00
 author: amchagas
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 layout: page
 categories: [Hardware]
 ---

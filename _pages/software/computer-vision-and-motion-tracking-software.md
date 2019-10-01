@@ -3,7 +3,7 @@ title: Computer Vision and motion tracking software
 author: amchagas
 layout: page
 categories: [Software]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 
 Motion tracking can be really useful in neurosciences, for automatic measurements of behaviour, among other things. Here you&#8217;ll find a small list of tracking softwares or libraries used to build such softwares:

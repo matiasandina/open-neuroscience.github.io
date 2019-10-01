@@ -3,7 +3,7 @@ title: Operating systems
 author: amchagas
 layout: page
 categories: [Software]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 Linux is an open source operating system and it is the major OS used in servers and supercomputers.  [Ubuntu](http://www.ubuntu.com), one of the best known distributions has been gaining space in the personal computing scene, now days already being factory [shipped](http://www.omgubuntu.co.uk/2012/05/ubuntu-to-ship-on-5-of-all-pcs-sold-next-year) by major manufacturers.
 

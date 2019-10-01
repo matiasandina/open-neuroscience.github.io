@@ -3,7 +3,7 @@ title: Python for Neurosciences (Frontiers collection)
 author: amchagas
 layout: page
 categories: [Software]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 Frontiers has created not one but two nice collections about open source software for neurosciences written in Python.
 

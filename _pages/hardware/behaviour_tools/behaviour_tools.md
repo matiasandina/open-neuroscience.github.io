@@ -1,9 +1,9 @@
 ---
 title: Behaviour tools
 author: amchagas
-featured-img: shane-rounce-205187
 layout: page
 categories: [Hardware]
+featured-img: openneuroscience
 ---
 
 <section class="blog">

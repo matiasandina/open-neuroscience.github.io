@@ -1,5 +1,5 @@
 ---
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 title: Electrophysiology
 author: amchagas
 layout: page

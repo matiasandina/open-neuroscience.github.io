@@ -1,10 +1,9 @@
 ---
-id: 276
 title: Arduino script posner test
 date: 2013-06-24T23:22:21+00:00
 author: amchagas
 layout: page
-guid: http://openeuroscience.wordpress.com/?page_id=276
+featured-img: openneuroscience
 ---
 This script is to be run on the Arduino IDE
 

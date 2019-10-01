@@ -5,7 +5,7 @@ date: 2015-01-31T22:56:41+00:00
 author: amchagas
 layout: page
 categories: [Prosthetics]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 
 

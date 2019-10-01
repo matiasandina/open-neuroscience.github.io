@@ -3,7 +3,7 @@ title: Stereo microscope
 author: amchagas
 layout: page
 categories: [Microscope]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 Although stereo microscopes are an essential piece of hardware in biology labs, sometimes we wish they had more features, like the possibility to record the magnified images with a camera, or have a better lighting system to enhance contrast on those small samples.
 

@@ -1,10 +1,8 @@
 ---
-id: 650
 title: Opening MCD files with python
-date: 2014-01-20T15:28:06+00:00
 author: amchagas
 layout: page
-guid: http://openeuroscience.wordpress.com/?page_id=650
+featured-img: openneuroscience
 ---
 This is a small piece of python code that converts *.mcd files  (electrophysiology data as recorded from the multichannelsystems rig, using their MCRack software) into python.
 
@@ -31,13 +29,13 @@ This code was created using python 2.7 and the neuroshare bindings for python fr
 #numpy
 
 #This code is distributed under:
-  
+
 #creative commons attribution-shareAlike 4.0 international (CC BY-SA 4.0) license.
 
 #@author: andre maia chagas &#8211;
 
 #find this and more open source tools @
-  
+
 \# www.openeuroscience.wordpress.com
 
 #function to get the recording of the digital line from

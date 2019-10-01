@@ -3,7 +3,7 @@ title: Intelligent hearing aid
 author: amchagas
 layout: page
 categories: [Prosthetics]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 Ojoshi at instructables.com has posted a manual on how to build this arduino based [hearing aid system](http://www.instructables.com/id/Intelligent-Hearing-Aid/?ALLSTEPS).
 

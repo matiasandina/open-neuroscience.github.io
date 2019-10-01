@@ -2,7 +2,7 @@
 title: Open source brain
 author: amchagas
 layout: page
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 categories: [Database]
 ---
 The [open source brain](http://www.opensourcebrain.org/) project is a database of computational models of neural systems.  From the website:

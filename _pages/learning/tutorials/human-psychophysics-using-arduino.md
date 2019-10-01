@@ -1,10 +1,8 @@
 ---
-id: 254
 title: Human psychophysics using Arduino
-date: 2013-06-24T23:11:25+00:00
 author: amchagas
 layout: page
-guid: http://openeuroscience.wordpress.com/?page_id=254
+featured-img: openneuroscience
 ---
 This is an example of what can be done with an arduino and python code running on a computer.
 

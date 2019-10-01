@@ -3,7 +3,7 @@ title: NeuroElectro
 author: amchagas
 layout: page
 categories: [Database]
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 ---
 [NeuroElectro](http://neuroelectro.org/) wants to extract information about neuron types, morphology, electrophysiology properties from papers, using text mining algorithms and gathers them in a database.
 

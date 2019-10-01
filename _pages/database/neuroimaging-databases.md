@@ -4,7 +4,7 @@ title: Neuroimaging databases
 date: 2014-07-15T15:27:07+00:00
 author: amchagas
 layout: page
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 categories: [Database]
 ---
 In here is a small list of databases in the field on neuroimaging:

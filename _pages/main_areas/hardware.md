@@ -1,10 +1,8 @@
 ---
 title: Hardware
-featured-img: shane-rounce-205187
-#date: 2013-01-29T19:12:19+00:00
+featured-img: openneuroscience
 author: amchagas
 layout: page
-#featured-img: shane-rounce-205187
 categories: [Topic]
 ---
 

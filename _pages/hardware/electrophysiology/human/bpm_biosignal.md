@@ -1,7 +1,7 @@
 ---
 title: BPM Biosignal
 author: amchagas
-featured-img: shane-rounce-205187
+featured-img: openneuroscience
 layout: page
 categories: [Human ephys]
 
