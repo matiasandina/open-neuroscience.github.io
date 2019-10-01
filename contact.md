@@ -4,16 +4,26 @@ title: Contact
 permalink: /contact/
 ---
 
-Jekyll is a great tool to create static sites, but there’s no backend to send your data to.
+## Get in touch:
 
-However, you can use free SaaS as a backend for forms, such as [Formspree](https://formspree.io/) to handle form submissions. Sleek has a configured form using formspree ready for you. All you have to do is change the email in `.config.yml`.
+If you have any questions, comments and suggestions about this project, please get in touch, by sending an email to openeuroscience[at]gmail.com
 
-Check the form below to see it in action!
 
-### Example Formspree contact form with validation and reCaptcha
+    
 
-Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
+## Add your project:
 
-{% include form.html %}
+If you would like to add your project to this repository, fill out the form below. We will review it as soon as possible and place it online!
 
+{% include form_project.html %}
 {% include modal.html %}
+
+### Categories:
+
+|||||
+|--|--|--|--|
+|Hardware |Software |Database|Behaviour tools|
+|Learning resources|Data|Other|Benchtop|
+|Data analysis|Computers|Electrophysiology|Tutorials|
+|Microscopes|Prosthetics_n_robots|signal_generators|stimulators|
+|simulations||||

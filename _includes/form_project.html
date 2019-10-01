@@ -1,0 +1,44 @@
+
+<form id="projectForm" action="https://formspree.io/{{site.email}}" method="post" novalidate>
+
+    <div class="form__input half">
+    <label for="project-title">Project Title</label>
+    <input type="text" name="project-title" id="project-title" placeholder="Awesome project X" required="">
+    </div>
+    <div class="form__input half">
+    <label for="project-URL">Project URL</label>
+    <input type="text" name="project-URL" id="project-URL" placeholder="Link to Awesome project X" required="">
+    </div>
+
+    <div class="form__input half">
+    <label for="page-author">Page Author</label>
+    <input type="text" name="name" id="full-name" placeholder="Author of the description to Awesome project X" required="">
+    </div>
+
+    <div class="form__input half">
+    <label for="email-address">Email Address</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+    </div>
+
+    <div class="form__input half">
+    <label for="category">Category</label>
+    <input type="text" name="category" id="category" placeholder="See suggested categories below" required="">
+    </div>
+
+    <div class="form__input half">
+    <label for="featured-img">Featured image</label>
+    <input type="text" name="featured-image" id="featured-image" placeholder="Link to an image to Awesome project X category" required="">
+    </div>
+
+    <div class="form__input half">
+    <label for="project">Description</label>
+    <textarea rows="10" name="message" id="message" placeholder="Aenean lacinia bibendum nulla sed consectetur. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Donec ullamcorper nulla non metus auctor fringilla nullam quis risus." required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Project Submission">
+    </div>
+
+  <input type="hidden" name="_subject" value="Website Form submission">
+  <input type="hidden" name="_format" value="plain" />
+  <input class="hidden" type="text" name="_gotcha">
+  <button class="btn js-submit" type="submit" value="Send">Send</button>
+
+</form>
