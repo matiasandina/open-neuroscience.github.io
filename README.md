@@ -103,28 +103,6 @@ Replace `GTM-XXXXXXX` with your Google Tag Manager Container ID.
 
 Google Tag Manager was chosen for this project as it's more flexible than Google Analytics, and it can be used to add GA to your site.
 
-### Disqus
-
-To enable Disqus comments, add your [Disqus shortname](https://help.disqus.com/customer/portal/articles/466208) to `_config.yml`:
-
-```yaml
-disqus:
-  shortname: my_disqus_shortname
-```
-
-### Formspree
-
-To use [Formspree](https://formspree.io/) with your email address, you need to change the following:
-
-Change `your-email@domain.com` email in `_config.yml`
-
-```yaml
-email: your-email@domain.com
-```
-
-You can check if it works by simply submitting the form.
-
-If you have a Formspree Gold Account, you can take advantage of using AJAX to submit form. To do so, uncomment last function in `_js/scripts.js` and run `gulp js`. Now the form will be submitted asynchronously, without leaving the page.
 
 ## Contributing
 
