@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Open Neuroscience # your site title
+title: Open Neuroscience Open Source Projects for neuroscience # your site title
 author: amchagas # You :P
 description: > # Meta description of Homepage
   Open Source projects for neuroscience
@@ -11,7 +11,7 @@ social:
   name: Open Neuroscience
   links:
     - https://twitter.com/openeuroscience
-    - https://www.facebook.com/OpenNeuroscience/
+    - https://www.facebook.com/OpenNeuroscience
     - https://github.com/open-neuroscience
 
 # THEME SETTINGS
