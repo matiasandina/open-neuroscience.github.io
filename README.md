@@ -87,23 +87,6 @@ Additionally, in `_config.yml` you can find custom theme settings under `# THEME
 - `tagline` - text that will be displayed on the homepage under the heading.
 - `hero_img` - background image of the homepage hero section
 
-Other settings usually enable/disable certain feature, and are discussed with the next sections.
-
-### Google Tag Manager
-
-To enable Google Tag Manager, add the uncomment the following line in `_config.yml`:
-
-```yaml
-google_tag_manager: GTM-XXXXXXX
-```
-
-Replace `GTM-XXXXXXX` with your Google Tag Manager Container ID.
-
-**Note** by default GTM tracking snippet will be also included in development environment.
-
-Google Tag Manager was chosen for this project as it's more flexible than Google Analytics, and it can be used to add GA to your site.
-
-
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at [https://github.com/janczizikow/sleek](https://github.com/janczizikow/sleek). This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
