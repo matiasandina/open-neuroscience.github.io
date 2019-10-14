@@ -1,73 +1,23 @@
-# Sleek
+# Open Neuroscience website
 
-[![Gem Version](https://badge.fury.io/rb/jekyll-sleek.svg)](https://badge.fury.io/rb/jekyll-sleek) [![Build Status](https://travis-ci.org/janczizikow/sleek.svg?branch=master)](https://travis-ci.org/janczizikow/sleek) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/janczizikow/sleek)
+Hello!
+Welcome to the repository of [Open Neuroscience website](https://www.open-neuroscience.github.io).
 
-A modern [Jekyll](https://jekyllrb.com/) theme focused on speed performance & SEO best practices.
+---
+If you are interested in the website's layout, go to [Sleek](https://github.com/janczizikow/sleek), the open source layout we used to create this site.
 
-![Sleek Jekyll Theme](./sleek.jpg)
+---
 
-## Features
+## More about Open Neuroscience:
 
-* Compatible with [Github Pages](https://pages.github.com/)
-* Minimal, responsive and speed performance optimized
-* SEO friendly, with help of [Jekyll SEO Plugin](https://github.com/jekyll/jekyll-seo-tag)
-* Easy [Google Tag Manager](https://tagmanager.google.com/) Integration
-* Support for [Disqus](https://disqus.com/) comments
-* Form submissions with [Formspree](#formspree)
+- this project started in 2013, as a way for me to keep track of what kind of open source projects for neuroscience were available out there, and also to serve as a central repository for people who might be interested in this intersection.
 
-[Preview Demo](https://janczizikow.github.io/sleek/)
+- Luckly over time more people contributed to this project:
 
-## Installation
 
-### System Requirements
-
-To use this project, you'll need the following things on your local machine:
-
-#### Jekyll
-
-```shell
-gem install jekyll
-```
-
-#### NodeJS (8 or greater)
-
-Download and open the [NodeJS installer](https://nodejs.org/en/)
-
-#### Gulp CLI (optional, but recommended)
-
-```shell
-npm install --global gulp-cli
-```
-
-### Up & Running
-
-1. [Fork the repo](https://github.com/janczizikow/sleek/fork)
-2. Clone or download the repo into directory of your choice: `git clone https://github.com/your-github-username/sleek.git`
-3. Inside the directory run `bundle install` and `npm install`
-4. If you want to use [gulp.js](https://gulpjs.com/) run `gulp` or `npm start`
-    * if you don't want to use gulp you can run `bundle exec jekyll serve` instead
-
-#### Installing to existing jekyll project
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "jekyll-sleek"
-```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: jekyll-sleek
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install jekyll-sleek
+| | ||
+|--|--|--|
+| | |
 
 ## File Structure Overview
 
