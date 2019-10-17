@@ -1,7 +1,7 @@
 ---
 title: Autoreward 2
 author: JJ Ballesteros
-layout: page
+layout: post
 categories: [Behaviour]
 featured-img: openneuroscience
 ---
