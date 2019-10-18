@@ -7,6 +7,9 @@ featured-img: openneuroscience
 ---
 
 
+
+![](https://photos.google.com/share/AF1QipMxpXqxGWiVl98sFRuE5d2wyF7pcO_i23qoHJxjQryp-zRBaBtiwzllZpUM55V4wg/photo/AF1QipNxO-Oprgxr0ZqXD5d_xa9bAcE9DPH41ruR1mbG?key=aU5WVnBFN19RbDc0WUw3T2Z3UVVNZTlybTBsMDdB)
+
 [<img class="aligncenter size-medium wp-image-1393" src="https://i0.wp.com/openeuroscience.com/wp-content/uploads/2017/08/IMG_26072017_122944_HDR.jpg?resize=296%2C300" alt="" width="296" height="300" srcset="https://i0.wp.com/openeuroscience.com/wp-content/uploads/2017/08/IMG_26072017_122944_HDR.jpg?resize=296%2C300 296w, https://i0.wp.com/openeuroscience.com/wp-content/uploads/2017/08/IMG_26072017_122944_HDR.jpg?w=593 593w" sizes="(max-width: 296px) 100vw, 296px" data-recalc-dims="1" />](https://photos.google.com/share/AF1QipMxpXqxGWiVl98sFRuE5d2wyF7pcO_i23qoHJxjQryp-zRBaBtiwzllZpUM55V4wg/photo/AF1QipNxO-Oprgxr0ZqXD5d_xa9bAcE9DPH41ruR1mbG?key=aU5WVnBFN19RbDc0WUw3T2Z3UVVNZTlybTBsMDdB)
 
 The **motivation** to start this project arises when we started to include a new behavioral paradigm in the lab, an alternation T-mace with return arms (like the one in Wood e_t al._ 2000). We wanted a clean performance, as well as a clean video record, so we consider necessary to interfere neither with the animal attention (mice, how they are!) nor the camera’s field of view. I decided then to give a try to the new hobby I was getting into, “Do-It-Yourself” (DIY) stuff.
